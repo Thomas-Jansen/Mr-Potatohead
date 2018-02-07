@@ -23,9 +23,12 @@ public class MainActivity extends AppCompatActivity {
             image.setVisibility(View.INVISIBLE);
         else
             image.setVisibility(View.VISIBLE);
-
     }
-
+//    public void onSaveInstanceState(Bundle outState) {
+//        super.onSaveInstanceState(outState);
+//        outState.putInt(bodypartID, value);
+//        outState.putString(bodypartID, value);
+//    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
