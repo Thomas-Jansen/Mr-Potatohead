@@ -2,4 +2,6 @@
 Author: Thomas Jansen
 
 A simple App in which you can give Mr Potatohead bodyparts 
-<img src="https://github.com/Thomas-Jansen/Mr-Potatohead/edit/master/docs/Screenshot1.jpeg" width="10">
+![Screenshot 1](/docs/Screenshot1.jpeg)
+![Screenshot 2](/docs/Screenshot2.jpeg)
+![Screenshot 3](/docs/Screenshot3.jpeg)
